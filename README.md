@@ -1,2 +1,2 @@
-# Number-Plate-Detection
-Number Plate Detection in MATLAB
+# Number-Plate-Detection 
+Number Plate Detection of Cars in MATLAB
